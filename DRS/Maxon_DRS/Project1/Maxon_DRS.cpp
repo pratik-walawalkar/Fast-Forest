@@ -18,9 +18,6 @@ int m_trigger = 50;             //the value after which the state is changed
 int m_sensor_input = 0;         //input from the sensor
 bool engine_on = true;
 
-
-
-
 WORD m_usNodeId = 1;
 int m_baudrate = 1000000;
 int m_timeout = 500;
